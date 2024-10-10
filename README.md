@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin129)
+
 
 
 - 🔭 I’m currently working on Design\ISP\Verification
@@ -10,3 +10,5 @@
 - 🤔 I’m looking for help with 
 
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin129)
